@@ -28,7 +28,7 @@ is cleaned up by a low-pass filter at 800 Hz:
 ## Quick start
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/signallab-ece.git
+git clone https://github.com/SuhaniShah008/signallab-ece.git
 cd signallab-ece
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
