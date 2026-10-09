@@ -1,6 +1,6 @@
 # SignalLab 📡
 
-A compact Python toolkit for **digital filter design and spectrum analysis**, built as an ECE project.
+A compact Python toolkit for **digital filter design and spectrum analysis**, built as an ECE project for my research lab.
 It generates noisy multi-tone signals, designs FIR (windowed-sinc) and IIR (Butterworth) filters,
 and measures how much each one improves signal-to-noise ratio (SNR).
 
